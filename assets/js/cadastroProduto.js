@@ -52,7 +52,7 @@ function cadastraProduto(event) {
 
 function exibirProdutos() {
   const lista = document.getElementById("listaProdutos");
-  lista.innerHTML = ""; // Limpa antes de exibir
+  lista.innerHTML = ""; 
 
   const produtos = JSON.parse(localStorage.getItem("produtos")) || [];
 
@@ -72,10 +72,10 @@ function exibirProdutos() {
 
 function excluirProduto(index) {
   const produtos = JSON.parse(localStorage.getItem("produtos")) || [];
-  produtos.splice(index, 1); // Remove o produto no índice indicado
-  localStorage.setItem("produtos", JSON.stringify(produtos)); // Atualiza o localStorage
-  exibirProdutos(); // Atualiza a tela
+  produtos.splice(index, 1); 
+  localStorage.setItem("produtos", JSON.stringify(produtos)); 
+  exibirProdutos(); 
 }
 
-// Exibir os produtos ao carregar a página
 window.onload = exibirProdutos;
+
