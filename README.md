@@ -19,7 +19,7 @@ Organização e controle interno eficiente.
 Importante: Para cadastrar um novo usuário no sistema, é necessário utilizar o código de administrador: 123456.
 
 🚀 Acesse a aplicação
-🔗 Clique aqui para acessar a aplicação
+🔗 [Clique aqui para acessar a aplicação](https://pedrobryk.github.io/Dashboard_Candpy/cadastro_funcionario.html)
 
 🛠️ Tecnologias utilizadas
 HTML5

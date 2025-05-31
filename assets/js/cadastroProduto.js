@@ -47,7 +47,6 @@ function cadastraProduto(event) {
   alert("Produto cadastrado com sucesso!");
 }
 
-
 // Exibir Produtos
 
 function exibirProdutos() {
