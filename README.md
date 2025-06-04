@@ -21,6 +21,9 @@ Importante: Para cadastrar um novo usuário no sistema, é necessário utilizar 
 🚀 Acesse a aplicação
 🔗 [Clique aqui para acessar a aplicação](https://pedrobryk.github.io/Dashboard_Candpy/cadastro_funcionario.html)
 
+🎵 Vídeo de apresentação
+🔗 [Clique aqui para assistir a apresentação](https://www.youtube.com/watch?v=oJdFouzOu5Y)
+
 🛠️ Tecnologias utilizadas
 HTML5
 
